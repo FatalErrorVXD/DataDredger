@@ -2,6 +2,7 @@
 
 DataDredger is a robust web scraping tool built with Python. It is capable of scraping a wide range of website data, including URL statuses, WebTrax IDs, Google Tag Manager IDs, Open Graph titles and descriptions, image statuses, and PDF URLs.
 It leverages the language understanding capabilities of the GPT-3 model provided by OpenAI to generate meaningful content when the OG (Open Graph) description (page meta description) is missing from a webpage.
+
 ![image](https://github.com/FatalErrorVXD/DataDredger/assets/133708056/9484684e-4a03-4c24-9f25-a3087401fdbd)
 
 ## Installation
